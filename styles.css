@@ -1,0 +1,49 @@
+.title1{
+    font-family: "Cherry Bomb One", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}
+.parrafo1{
+    color: rgb(29, 103, 78);
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.fondo1{
+    background-color: #C5FFFF;
+}
+.lettercolor{
+    color: white;
+    text-decoration: none;
+}
+.proyecto {
+    height: 300px;
+    border-radius: 50%;
+}
+.title2{
+    font-family: "Pacifico", cursive;
+    font-weight: 400px;
+    font-style: normal;
+
+}
+.skillsimages {
+    height: 300px;
+    border-radius: 50%;
+}
+.feature-icon-small {
+  width: 3rem;
+  height: 3rem;
+}
+.titulo3{
+    font-family: "Savate", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+.fondo2{
+    background-color: rgb(162, 162, 220);
+}
+.titulo4{
+    font-family: "Edu NSW ACT Hand Pre", cursive;
+    font-weight: 500;
+    font-style: normal;
+}
